@@ -5,7 +5,7 @@ const technologies = [
   { name: "Tailwind CSS", color: "bg-[hsl(199,89%,48%)]/20 text-[hsl(199,89%,70%)]" },
   { name: "TypeScript", color: "bg-[hsl(211,60%,48%)]/20 text-[hsl(211,60%,70%)]" },
   { name: "Next.js", color: "bg-foreground/10 text-foreground" },
-  { name: "Lovable", color: "bg-primary/20 text-primary" },
+  { name: "FERK Code", color: "bg-primary/20 text-primary" },
   { name: "WordPress", color: "bg-[hsl(199,89%,48%)]/20 text-[hsl(199,89%,70%)]" },
   { name: "Figma", color: "bg-[hsl(329,71%,64%)]/20 text-[hsl(329,71%,74%)]" },
   { name: "Framer", color: "bg-[hsl(0,0%,100%)]/10 text-foreground" },
